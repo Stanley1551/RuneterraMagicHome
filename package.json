@@ -1,0 +1,15 @@
+{
+  "name": "runeterramagichomenode",
+  "version": "1.0.0",
+  "description": "Polls LoR client to adjust magic home leds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Lorincz",
+  "license": "ISC",
+  "dependencies": {
+    "magic-home": "^2.4.1",
+    "request": "^2.81.0"
+  }
+}
